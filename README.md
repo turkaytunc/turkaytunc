@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Türkay.👋
 
 - 🔭 I’m currently working on Custom Hooks.
 - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Concurrency.
-- 💬 Ask me about Anything about javascript.
 - 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
 - ⚡ Fun fact: I make games!
 
