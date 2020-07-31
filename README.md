@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" alt="itch.io" width="25px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" />][itch.io]
+[<img align="left" alt="youtube" width="30px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/youtube.png" target="\_blank" \>][youtube]
+
+[<img align="left" alt="itch.io" width="30px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" target="_blank" />][itch.io]
 
 <br/>  
 <br/>
 
+[youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ
 [itch.io]: https://turkaytunc.itch.io/
