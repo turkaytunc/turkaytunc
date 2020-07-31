@@ -14,6 +14,8 @@
 
 <br/>  
 <br/>
+<br/>
+<hr/>
 
 [twitter]: https://twitter.com/filthycoder
 [linkedin]: https://www.linkedin.com/in/turkaytunc/
