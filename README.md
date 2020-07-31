@@ -10,7 +10,7 @@
 [<img align="left" alt="linkedin" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/linkedin.png" target="_blank" />][linkedin]
 [<img align="left" alt="twitter" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/twitterlogo.jpg" target="_blank" />][twitter]
 [<img align="left" alt="youtube" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/youtube.png" target = "_blank"/>][youtube]
-[<img style={border-radius: "5px"} align="left" alt="itch.io" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" target="\_blank" />][itch.io]
+[<img align="left" alt="itch.io" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" target="\_blank" />][itch.io]
 
 <br/>  
 <br/>
