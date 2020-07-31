@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img align="left" alt="itch.io" width="25px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" />][itch.io]
+
+<br/>  
+<br/>
+
+[itch.io]: https://turkaytunc.itch.io/
