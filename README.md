@@ -21,3 +21,16 @@
 [linkedin]: https://www.linkedin.com/in/turkaytunc/
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ
+
+<br/>
+<br/>
+
+---
+Make it work, make it right, make it fast. 
+-- Kent Beck 
+---
+Any fool can write code that a computer 
+can understand. Good programmers write 
+code that humans can understand. 
+-- Martin Fowler
+---
