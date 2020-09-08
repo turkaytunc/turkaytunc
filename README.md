@@ -29,7 +29,7 @@
 Make it work, make it right, make it fast.  
 -- **Kent Beck** 
 <br/>
-<hr height="1px"/>
+<hr height="0.5px"/>
 Any fool can write code that a computer 
 can understand. Good programmers write 
 code that humans can understand.  
