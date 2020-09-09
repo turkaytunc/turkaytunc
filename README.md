@@ -22,6 +22,7 @@
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc)
 <br/>
 <br/>
 
