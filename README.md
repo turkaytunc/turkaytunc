@@ -22,7 +22,7 @@
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true)
+
 <br/>
 <br/>
 
@@ -37,3 +37,5 @@ code that humans can understand.
 
 -- **Martin Fowler**
 <br/>
+
+[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true)
