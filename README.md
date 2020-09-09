@@ -38,4 +38,4 @@ code that humans can understand.
 -- **Martin Fowler**
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true&theme=merko)
