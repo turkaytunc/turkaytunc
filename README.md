@@ -30,12 +30,13 @@
 Make it work, make it right, make it fast.  
 -- **Kent Beck** 
 <br/>
-<hr height="0.5px"/>
+<hr/>
 Any fool can write code that a computer 
 can understand. Good programmers write 
 code that humans can understand.  
 
 -- **Martin Fowler**
 <br/>
+<hr/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true&theme=dark)
