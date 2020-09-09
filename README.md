@@ -20,14 +20,12 @@
 [twitter]: https://twitter.com/filthycoder
 [linkedin]: https://www.linkedin.com/in/turkaytunc/
 [itch.io]: https://turkaytunc.itch.io/
-[youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ
+[youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ  
 
+---  
 
-<br/>
-<br/>
-
----
 > Make it work, make it right, make it fast.  
+
 -- **Kent Beck**  
 <br/>
 <hr/>
