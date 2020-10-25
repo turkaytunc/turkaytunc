@@ -22,6 +22,25 @@
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ  
 
+<br/>
+<br/>
+<hr/>
+
+<img align="left" alt="amazon" width="60px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="docker" width="60px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="git" width="60px" src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="javascript" width="60px" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="mongo" width="60px" src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="nodejs" width="60px" src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="npm" width="60px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="postgre" width="60px" src="https://icongr.am/devicon/postgresql-original.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="react" width="60px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="redis" width="60px" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="typescript" width="60px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="v studio" width="60px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=60&color=currentColor" target="_blank" />
+<br />
+<br />
+
 ---  
 
 > **Make it work, make it right, make it fast.**  
