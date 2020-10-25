@@ -6,8 +6,8 @@
 - 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
 - ⚡ Fun fact: I make games!
 
-<hr/>
-<br/>
+<hr />  
+<br />  
 
 [<img align="left" alt="linkedin" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/linkedin.png" target="_blank" />][linkedin]
 [<img align="left" alt="twitter" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/twitterlogo.jpg" target="_blank" />][twitter]
@@ -22,9 +22,11 @@
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ  
 
-<br/>
-<br/>
-<hr/>
+<br/>  
+
+<br/>  
+
+<hr/>  
 
 <img align="left" alt="amazon" width="60px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="docker" width="60px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
@@ -38,22 +40,39 @@
 <img align="left" alt="redis" width="60px" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="typescript" width="60px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="v studio" width="60px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=60&color=currentColor" target="_blank" />
-<br />
-<br />
 
----  
+<br />    
+
+
+
+<br />  
+
+<br />  
+
+<br />  
+
+<br />  
+
+<hr />   
+
 
 > **Make it work, make it right, make it fast.**  
 
 -- Kent Beck  
-<br/>
-<hr/>
+
+<hr/>  
+
+<br />  
+
 
 > **Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**  
 
 -- Martin Fowler  
-<br/>
-<hr/>
+
+<br/>  
+
+<hr/>  
+
 
 ![profile-views](https://komarev.com/ghpvc/?username=turkaytunc&color=green)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=10)  
