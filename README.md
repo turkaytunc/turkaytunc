@@ -1,7 +1,7 @@
 ### Hi there, I'm Türkay.👋
 
 - 🔭 I’m currently working on Custom Hooks.
-- 🌱 I’m currently learning jest-rollup-nodejs-cypress.
+- 🌱 I’m currently learning jest-rollup-typescript-graphql.
 - 🤔 I’m looking for help with Concurrency.
 - 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
 - ⚡ Fun fact: I make games!
