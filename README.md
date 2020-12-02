@@ -1,7 +1,7 @@
 ### Hi there, I'm Türkay.👋
 
-- 🔭 I’m currently working on Twitter Clone.
-- 🌱 I’m currently learning jest-rollup-typescript-graphql.
+- 🔭 I’m currently working on e-commerce site.
+- 🌱 I’m currently learning typescript-graphql.
 - 🤔 I’m looking for help with Concurrency.
 - 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
 - ⚡ Fun fact: I make games!
