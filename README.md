@@ -1,8 +1,8 @@
 ### Hi there, I'm Türkay.👋
 
 - 🔭 I’m currently working on e-commerce site.
-- 🌱 I’m currently learning typescript-graphql.
-- 🤔 I’m looking for help with Concurrency.
+- 🌱 I’m currently learning typescript-graphql-jest.
+- 🤔 I’m looking for help with Testing.
 - 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
 - ⚡ Fun fact: I make games!
 
