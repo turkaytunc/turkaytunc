@@ -52,41 +52,9 @@
 
 <br/>  
 
-<br />  
-
-<br />  
-
-<br />  
-
-<br />  
-
-<hr />   
-
-<br/>  
-
-<br/>  
-
-<br/>  
 
 
-> **Make it work, make it right, make it fast.**  
 
--- Kent Beck  
-
-<hr/>  
-
-<br />  
-
-
-> **Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**  
-
--- Martin Fowler  
-
-<br/>  
-
-<hr/>  
-
-
-![profile-views](https://komarev.com/ghpvc/?username=turkaytunc&color=green)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=10)  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true&theme=dark)  
+![profile-views](https://komarev.com/ghpvc/?username=turkaytunc&color=green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=10)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true&theme=dark)
