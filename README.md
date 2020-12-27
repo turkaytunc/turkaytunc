@@ -12,7 +12,7 @@
 [<img align="left" alt="linkedin" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/linkedin.png" target="_blank" />][linkedin]
 [<img align="left" alt="twitter" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/twitterlogo.jpg" target="_blank" />][twitter]
 [<img align="left" alt="youtube" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/youtube.png" target = "_blank"/>][youtube]
-[<img align="left" alt="itch.io" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" target="\_blank" />][itch.io]
+[<img align="left" alt="itch.io" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/itchiologo.png" target="\_blank" />][itch.io]  
 
 <br/>
 <br/>
@@ -22,11 +22,7 @@
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ  
 
-<br/>  
-
-<br/>  
-
-<hr/>  
+<br/>
 
 <img align="left" alt="amazon" width="60px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="docker" width="60px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
@@ -40,20 +36,9 @@
 <img align="left" alt="redis" width="60px" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="typescript" width="60px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="v studio" width="60px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=60&color=currentColor" target="_blank" />
-<img align="left" alt="csharp" width="60px" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" target="_blank" />  
-<br />    
+<img align="left" alt="csharp" width="60px" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" target="_blank" />    
 
-<br/>
-  
-
-  
-
-<br/>  
-
-<br/>  
-
-
-
+---
 
 ![profile-views](https://komarev.com/ghpvc/?username=turkaytunc&color=green)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=10)
