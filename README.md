@@ -22,11 +22,11 @@
 [itch.io]: https://turkaytunc.itch.io/
 [youtube]: https://www.youtube.com/channel/UChkxm4Q14X0NdGFvZOm1hMQ  
 
-<br/>
+<br />
 
-<br/>
+<br />
 
-<br/>
+<br />
 
 <img align="left" alt="amazon" width="60px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="docker" width="60px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
@@ -42,10 +42,13 @@
 <img align="left" alt="v studio" width="60px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="csharp" width="60px" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" target="_blank" />    
 
+<br />  
+  
+<br />
+  
+<br />
 
 ---
-
-<br/>
 
 ![profile-views](https://komarev.com/ghpvc/?username=turkaytunc&color=green)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=10)
