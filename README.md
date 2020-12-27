@@ -24,6 +24,10 @@
 
 <br/>
 
+<br/>
+
+<br/>
+
 <img align="left" alt="amazon" width="60px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="docker" width="60px" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="git" width="60px" src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" target="_blank" />
@@ -37,6 +41,7 @@
 <img align="left" alt="typescript" width="60px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="v studio" width="60px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="csharp" width="60px" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" target="_blank" />    
+
 
 ---
 
