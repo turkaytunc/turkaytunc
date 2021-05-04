@@ -1,6 +1,6 @@
 ### Hi there, I'm Türkay.👋
 
-- 🔭 I’m currently working on yelp clone.
+- 🔭 I’m currently working on instagram clone.
 - 🌱 I’m currently learning golang, graphql.
 - 🤔 I’m looking for help with Compilers(parser, lexer ...).
 - 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
