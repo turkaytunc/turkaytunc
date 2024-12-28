@@ -7,17 +7,8 @@
 - ⚡ Fun fact: I make games!
 
 <hr />  
-<br />  
-
-[<img align="left" alt="linkedin" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/linkedin.png" target="_blank" />][linkedin]
-
 
 <br/>
-<br/>
-
-[linkedin]: https://www.linkedin.com/in/turkaytunc/
-
-<br />
   
 
 <img align="left" alt="amazon" width="60px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
@@ -31,8 +22,9 @@
 <img align="left" alt="react" width="60px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="redis" width="60px" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="typescript" width="60px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" target="_blank" />
-<img align="left" alt="v studio" width="60px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=60&color=currentColor" target="_blank" />
-<img align="left" alt="csharp" width="60px" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" target="_blank" />    
+<img align="left" alt="golang" width="60px" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" target="_blank" />
+<img align="left" alt="gitlab" width="60px" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" target="_blank" />
+
   
 <br />  
   
