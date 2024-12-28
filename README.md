@@ -1,7 +1,7 @@
 ### Hi there, I'm Türkay.👋
 
-- 🔭 I’m currently working on a library which is used to create microservices that is using monorepository architecture.
-- 🌱 I’m currently learning golang, istio, k8s.
+- 🔭 I'm currently working on a library for creating microservices using monorepository architecture.
+- 🌱 I’m currently learning golang, istio, k8s, and system design.
 - 🤔 I’m looking for help with Compilers(parser, lexer ...).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/turkaytunc/)
 - ⚡ Fun fact: I make games!
