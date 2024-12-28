@@ -16,7 +16,6 @@
 <img align="left" alt="git" width="60px" src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="javascript" width="60px" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="mongo" width="60px" src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor" target="_blank" />
-<img align="left" alt="nodejs" width="60px" src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="npm" width="60px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="postgre" width="60px" src="https://icongr.am/devicon/postgresql-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="react" width="60px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
