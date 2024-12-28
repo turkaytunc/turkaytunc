@@ -1,9 +1,9 @@
 ### Hi there, I'm Türkay.👋
 
-- 🔭 I’m currently working on instagram clone.
-- 🌱 I’m currently learning golang, graphql.
+- 🔭 I’m currently working on a library which is used to create microservices that is using monorepository architecture.
+- 🌱 I’m currently learning golang, istio, k8s.
 - 🤔 I’m looking for help with Compilers(parser, lexer ...).
-- 📫 How to reach me: [turkaytunc.com](https://www.turkaytunc.com/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/turkaytunc/)
 - ⚡ Fun fact: I make games!
 
 <hr />  
