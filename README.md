@@ -10,7 +10,6 @@
 <br />  
 
 [<img align="left" alt="linkedin" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/linkedin.png" target="_blank" />][linkedin]
-[<img align="left" alt="twitter" width="40px" src="https://github.com/turkaytunc/turkaytunc/blob/master/static-files/twitterlogo.jpg" target="_blank" />][twitter]
 
 
 <br/>
