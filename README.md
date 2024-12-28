@@ -24,6 +24,7 @@
 <img align="left" alt="typescript" width="60px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" target="_blank" />
 <img align="left" alt="golang" width="60px" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" target="_blank" />
 <img align="left" alt="gitlab" width="60px" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" target="_blank" />
+<img align="left" alt="vim" width="60px" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" target="_blank" />
 
   
 <br />  
