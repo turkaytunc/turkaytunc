@@ -38,4 +38,4 @@
 
 ![profile-views](https://komarev.com/ghpvc/?username=turkaytunc&color=green)  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkaytunc&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkaytunc&theme=dark&layout=compact&hide=glsl&langs_count=8)
